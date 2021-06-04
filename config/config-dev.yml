@@ -4,4 +4,4 @@ eureka:
       defaultZone: http://www.gao.com:7001/eureka/
 
 config:
-  info:"∏ﬂŒ∞Ω°≤‚ ‘github≈‰÷√÷––ƒ"
+  info: gaoweijian-test-github-springcloud-config
