@@ -1,4 +1,4 @@
-#服务注册到Eureka地址
+#服务注册到Eureka地址-测试
 eureka:
   client:
     service-url:
