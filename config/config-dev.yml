@@ -2,3 +2,6 @@ eureka:
   client:
     service-url:
       defaultZone: http://www.gao.com:7001/eureka/
+
+config:
+  info:"¸ßÎ°½¡²âÊÔgithubÅäÖÃÖĞĞÄ"
