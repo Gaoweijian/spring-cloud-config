@@ -1,5 +1,5 @@
-#服务注册到Eureka地址-测试github
+#test-github
 eureka:
   client:
     service-url:
-      defaultZone: "http://www.gao.com:7001/eureka/"
+      defaultZone: http://www.gao.com:7001/eureka/
